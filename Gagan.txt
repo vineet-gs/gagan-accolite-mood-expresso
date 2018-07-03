@@ -1,2 +1,1 @@
 Starting with my git
-,revert the changes
